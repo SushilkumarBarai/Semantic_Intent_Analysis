@@ -29,7 +29,7 @@ A production-ready **FastAPI service** for managing intent recognition projects 
 
 ### Prerequisites
 ```bash
-Python 3.8+
+Python 3.9+
 pip package manager
 ```
 
