@@ -1,0 +1,23 @@
+{
+  "language": "en-IN",
+  "project_name": "your_bot",
+  "intent_trajectory": {
+    "Yes": [
+      "yes",
+      "yep",
+      "sure",
+      "absolutely"
+    ],
+    "No": [
+      "no",
+      "not",
+      "never",
+      "nah"
+    ],
+    "Neutral": [
+      "maybe",
+      "possibly",
+      "not sure"
+    ]
+  }
+}
