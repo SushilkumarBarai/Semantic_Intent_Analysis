@@ -393,25 +393,5 @@ pip install gunicorn[gevent]
 gunicorn main:app -w 4 -k uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 📞 Support
-
-For issues and questions:
-- Create an issue in the repository
-- Check the API documentation at `/docs`
-- Review the troubleshooting section
-
----
 
 **Built with ❤️ using FastAPI, sentence-transformers, and scikit-learn**
