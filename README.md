@@ -25,6 +25,12 @@ A production-ready **FastAPI service** for managing intent recognition projects 
 - **Vector similarity search** for accurate intent matching
 - **CRUD operations** for intent management (Create, Read, Update, Delete)
 
+### 📸 **Intent Recognition Screenshot**
+
+<p align="center">
+  <img src="https://github.com/SushilkumarBarai/Semantic_Intent_Analysis/blob/main/Screenshot.png" alt="Semantic Screenshot" width="600"/>
+</p>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
